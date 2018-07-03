@@ -4,10 +4,10 @@ about: Create a new workshop event idea.
 
 ---
 
-### Title
-
 ### Description
+[ insert event here]
 
+### TODO
 [ ] Speaker is assigned
 [ ] Date is assigned
 [ ] Event booked on [Meetup.com](https://www.meetup.com/TechmillDenton)
